@@ -1,2 +1,2 @@
-# musicFinder
+# Good Music
 Created with CodeSandbox
